@@ -20,7 +20,7 @@ This project includes:
 - service container
 - service providers
 - emailing with Markdown mail
-- form requests and form objects]
+- form requests and form objects
 - session handling and session flash messaging
 - pivot tables for Eloquent models
 - eventing
